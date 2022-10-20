@@ -69,7 +69,7 @@ export default {
 
 <style scoped>
 .wrapper {
-  display: flex;
+  display: flex !important;
   width: 100%;
   margin-bottom: 8px;
 }
